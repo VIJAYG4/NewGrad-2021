@@ -22,7 +22,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[LeetCode](https://www.cognitoforms.com/LeetCodeLLC/LeetCodeFullStackEngineerApplicationNewGrad)| | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4200121002?foo=bar)| Chicago, Illinois | Software Engineer |
 |[VMWare](https://careers.vmware.com/new-graduates/jobs/R2009349?lang=en-us)| Palo Alto, CA| |
-|[Whisper.ai](https://boards.greenhouse.io/whisperai/jobs/4465259002?gh_src=3202a8272)| San Francisco | |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=graduate&location=&facetcountry=us) | Various | Software Engineer |
 |[Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49)| Mtn. View, CA | |
 |[Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC)| NY | |
@@ -55,4 +54,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[JP Morgan](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime)|Various|Software Engineer|
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, | |
 |[Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)| San Francisco, New York, Dublin, Singapore, Seattle|New Grad Software Engineer|
+|[Whisper.ai](https://boards.greenhouse.io/whisperai/jobs/4465259002?gh_src=3202a8272)| San Francisco | |
+
 
