@@ -42,7 +42,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/4478-Analyst-Program-Americas/en-GB)| |Analyst Program|
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2021/1786/17009507)|Various|Technology Development Program Associate|
 |[Scale AI](https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27)| San Francisco, CA |New Grad Software Engineer|
-|[Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)| San Francisco, New York, Dublin, Singapore, Seattle|New Grad Software Engineer|
 |[Palantir](https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0)| Palo Alto, New York, Seattle, Washington|Software Engineer, New Grad|
 |[Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3)| San Francisco, CA |Software Engineer, New Grad (2021)|
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer)| Various |Full Time Opportunities for Students and Recent Graduates - Software Engineer|
@@ -55,3 +54,5 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |---|---|-------------|
 |[JP Morgan](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime)|Various|Software Engineer|
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, | |
+|[Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)| San Francisco, New York, Dublin, Singapore, Seattle|New Grad Software Engineer|
+
