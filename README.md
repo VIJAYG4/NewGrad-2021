@@ -13,7 +13,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 | Name  |  Location |  Notes |
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software)|
-|[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | Software Engineer|
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
 |[Goldman Sachs](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-1786316/xf-6c8bbd207c0e/candidate/so/pm/1/pl/1/opp/1-New-Analyst-New-Associate-Full-time-roles/en-GB)| New York | |
@@ -55,6 +54,7 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Whisper.ai](https://boards.greenhouse.io/whisperai/jobs/4465259002?gh_src=3202a8272)| San Francisco | |
 |[Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49)| Mtn. View, CA | |
 |[Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC)| NY | |
+|[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | Software Engineer|
 
 
 
