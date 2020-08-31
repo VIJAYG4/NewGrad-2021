@@ -27,7 +27,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Belvedere](https://belvederetrading.applicantstack.com/x/detail/a2sa4x0hfsr9?noia=1) | Chicago | |
 |[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
 |[Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| Various | |
-|[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
 |[HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=PittCSC) | Cambridge, MA | |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various| |
@@ -55,6 +54,7 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | Software Engineer|
 |[Scale AI](https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27)| San Francisco, CA |New Grad Software Engineer|
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=graduate&location=&facetcountry=us) | Various | Software Engineer |
+|[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
 
 
 
