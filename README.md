@@ -13,14 +13,12 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 | Name  |  Location |  Notes |
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software)|
-|[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
 |[Goldman Sachs](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-1786316/xf-6c8bbd207c0e/candidate/so/pm/1/pl/1/opp/1-New-Analyst-New-Associate-Full-time-roles/en-GB)| New York | |
 |[IMC](https://careers.imc.com/us/en/c/graduates-jobs) | Chicago, Sydney, Amsterdam | Software, Hardware, Quant Trader|
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York | Software Engineer|
 |[LeetCode](https://www.cognitoforms.com/LeetCodeLLC/LeetCodeFullStackEngineerApplicationNewGrad)| | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4200121002?foo=bar)| Chicago, Illinois | Software Engineer |
-|[VMWare](https://careers.vmware.com/new-graduates/jobs/R2009349?lang=en-us)| Palo Alto, CA| |
 |[DRW](https://drw.com/careers/job/1352350)| Chicago, Austin | |
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847809)| Chicago | |
 |[SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201) | Palo Alto | |
@@ -55,6 +53,8 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2021/1786/17009507)|Various|Technology Development Program Associate|
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641)| Various |Software Engineer - On Campus Recruiting|
+|[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
+|[VMWare](https://careers.vmware.com/new-graduates/jobs/R2009349?lang=en-us)| Palo Alto, CA| |
 
 
 
